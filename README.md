@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @habtew
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning software engineering
+- 📫 How to reach me @ https://www.linkedin.com/in/habtamu-weldemikael-1949171b5/
