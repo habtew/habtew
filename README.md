@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habtew&show_icons=true&locale=en" alt="habtew" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habtew&" alt="habtew" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habtew&" alt="habtew"  /></p>
