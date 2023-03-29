@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/habtew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/habtew" height="30" width="40" /></a>
+<a href="https://codepen.io/habtew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="habtew" height="30" width="40" /></a>
 <a href="https://twitter.com/habtew16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habtew16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/habtamu gebre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habtamu gebre" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@habtamuwolde96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@habtamuwolde96" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/habtamu-gebre-1949171b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/habtamu-gebre-1949171b5/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/habtamuwolde96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="habtamuwolde96" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/habtew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="habtew" height="30" width="40" /></a>
 </p>
 
