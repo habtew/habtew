@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habtew&label=Profile%20views&color=0e75b6&style=flat" alt="habtew" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habtew" alt="habtew" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=habtew" alt="habtew" /></a> </p>
 
 - 🔭 I’m currently working on [Todo-app](https://github.com/habtew/todo-app)
 
