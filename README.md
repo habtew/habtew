@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=habtew" alt="habtew" /></a> </p>
 
-- 🔭 I’m currently working on [Todo-app](https://github.com/habtew/todo-app)
+- 🔭 I’m currently working on [fylo-light-two-column-layout](https://github.com/habtew/fylo-light-two-column-layout)
 
 - 🌱 I’m currently learning **Javascript algorithms**
 
