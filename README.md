@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **habtamuwolde92@gmail.com**
 
-- ⚡ Fun fact **love playing football**
+- ⚡ Fun fact **love playing and watching football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
