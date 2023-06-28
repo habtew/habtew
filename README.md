@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habtew&" alt="habtew"  /></p>
 
-<button style="color: red; background:green; border: 1px solid black">click me</button>
+<button color="green">click me</button>
